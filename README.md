@@ -117,9 +117,9 @@ pip freeze > requirements.txt
 
 | Streamlit App | Description |
 |---------------|-------------|
-| `screenshots/assignment1_text_processing.png` | Assignment 1.1 Web App demo |
-| `screenshots/assignment2_embeddings.png`      | Assignment 1.2 Web App demo |
-| `screenshots/assignment3_summarizer.png`      | Assignment 1.3 Web App demo |
+| `screenshots/assignment_1.1.png` | Assignment 1.1 Web App demo |
+| `screenshots/assignment_1.2.png`      | Assignment 1.2 Web App demo |
+| `screenshots/assignment_1.3.png`      | Assignment 1.3 Web App demo |
 
 
 ---
