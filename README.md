@@ -76,6 +76,7 @@ python api.py
 # Terminal 2: Launch the Streamlit app
 streamlit run streamlit_app.py
 ```
+![Assignment1.1](screenshots/assignment_1.1.png)
 
 ### 🧬 For Assignment 1.2: Word Embeddings & Visualization
 
@@ -90,6 +91,8 @@ python api_embeddings.py
 streamlit run streamlit_embeddings_app.py
 ```
 
+![Assignment1.2](screenshots/assignment_1.2.png)
+
 ### 📰 For Assignment 1.3: Seq2Seq Summarization with LSTM
 
 ```bash
@@ -97,7 +100,7 @@ streamlit run streamlit_embeddings_app.py
 cd assignment_1.3
 streamlit run summarizer_app.py
 ```
-
+![Assignment1.3](screenshots/assignment_1.3.png)
 
 ---
 
@@ -113,14 +116,5 @@ pip freeze > requirements.txt
 
 ---
 
-## 🖼️ Screenshots
 
-| Streamlit App | Description |
-|---------------|-------------|
-| `screenshots/assignment_1.1.png` | Assignment 1.1 Web App demo |
-| `screenshots/assignment_1.2.png`      | Assignment 1.2 Web App demo |
-| `screenshots/assignment_1.3.png`      | Assignment 1.3 Web App demo |
-
-
----
 
